@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+pymupdf
+streamlit
+accelerate
+bitsandbytes
+pandas
+tqdm
+matplotlib
